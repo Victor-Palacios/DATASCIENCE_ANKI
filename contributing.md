@@ -12,15 +12,15 @@ The following quote sums up the **Code of Conduct**.
 
    > Be cordial or be on your way. --Kenneth Reitz
 
-## Goal of this repository
+## Goal of this Repository
 
 To create and maintain a free, intelligent, flashcard repository for data science together. 
 
-### How Goal is achieved
+### How Goal is Achieved
 
-Anki flashcards ([What is Anki - VIDEO](https://youtu.be/FHVOAr8MxxQ?t=88), [Anki download link](https://apps.ankiweb.net), and [Anki + Coding Article](https://www.freecodecamp.org/news/use-spaced-repetition-with-anki-to-learn-to-code-faster-7c334d448c3c/))
-Cloze Deletion Anki flashcards ([How to make Cloze Deletion cards - VIDEO](https://www.youtube.com/watch?v=IRY1rYxd9EM) and [Cloze Deletion download link](https://apps.ankiweb.net/docs/manual.html#cloze-deletion)) and
-Occlusion Anki flashcards ([How to make Occlusion cards - VIDEO](https://www.youtube.com/watch?v=c-4xOe79epU&list=PL3MozITKTz5YFHDGB19ypxcYfJ1ITk_6o&index=2&t=0s) and [Occlusion download link](https://ankiweb.net/shared/info/1374772155)).
+Anki flashcards ([VIDEO](https://youtu.be/FHVOAr8MxxQ?t=88), [DOWNLOAD](https://apps.ankiweb.net), and [ARTICLE](https://www.freecodecamp.org/news/use-spaced-repetition-with-anki-to-learn-to-code-faster-7c334d448c3c/))
+Cloze Deletion Anki flashcards ([VIDEO](https://www.youtube.com/watch?v=IRY1rYxd9EM) and [MANUAL](https://apps.ankiweb.net/docs/manual.html#cloze-deletion)) and
+Occlusion Anki flashcards ([VIDEO](https://www.youtube.com/watch?v=c-4xOe79epU&list=PL3MozITKTz5YFHDGB19ypxcYfJ1ITk_6o&index=2&t=0s) and [DOWNLOAD](https://ankiweb.net/shared/info/1374772155)).
 
 #### More about Anki
 
@@ -30,91 +30,65 @@ Make sure you watch how to [make optimal flashcards](https://www.youtube.com/wat
 
 While Anki does have data science decks already uploaded, most are not optimized for learning and frequently violate the [minimum information principle](https://supermemo.guru/wiki/Minimum_information_principle).
 
-## How to contribute
+## How to Contribute
 
 Ways to contribute:
- - Create Anki cloze deletion flashcards and upload to this repository
- - Make this repository more beautiful by reading [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and adding tables, images, etc
- - Correct anything: mistakes on any flashcards, grammatical errors, missing words (unless omitted for spacing issues on flashcards)
+ - Create Anki cloze deletion flashcards and upload them to this repository
+ - Make this repository more beautiful by reading:
+   - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and adding tables, images, etc
+   - [36 Amazing Python Open Source Projects (v.2019)](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450) to get a sense of what beautiful projects look like
+   - [Starting an Open Source Project guide](https://opensource.guide/starting-a-project/)
+ - Correct anything: mistakes on any flashcards, grammatical errors on the repository, or missing words anywhere (unless omitted for spacing issues on flashcards)
  - Clarify anything: hard-to-understand paragraphs, etc.
 
-## Setting up a development environment
+## Setting up
 
-To install the dependencies needed for development, you can use pip:
+Here's what you'll need to read/download to understand what we'll be doing:
 
-<pre>
-$ pip install camelot-py[dev]
-</pre>
+1. All of the links in **How Goal is Achieved** to understand Anki
+2. https://github.com/Stvad/CrowdAnki/blob/master/README.md to understand how to share Anki decks
+3. https://ankiweb.net/shared/info/1788670778 to put the decks in a format to be shared
 
-Alternatively, you can clone the project repository, and install using pip:
+Optional, but helpful:
 
-<pre>
-$ pip install ".[dev]"
-</pre>
+1. https://desktop.github.com to manipulate github without using the terminal
 
 ## Pull Requests
 
 ### Submit a pull request
 
-The preferred workflow for contributing to Camelot is to fork the [project repository](https://github.com/socialcopsdev/camelot) on GitHub, clone, develop on a branch and then finally submit a pull request. Here are the steps:
+Fork the [project repository](https://github.com/Victor-Palacios/Data_Science_Interview_Questions_using_Cloze_Deletion) on GitHub, clone, develop on a branch and then finally submit a pull request. Here are the steps:
 
 1. Fork the project repository. Click on the ‘Fork’ button near the top of the page. This creates a copy of the code under your account on the GitHub.
 
-2. Clone your fork of Camelot from your GitHub account:
-
-<pre>
-$ git clone https://www.github.com/[username]/camelot
-</pre>
+2. Clone your fork of this project from your GitHub account:
 
 3. Create a branch to hold your changes:
 
-<pre>
-$ git checkout -b my-feature
-</pre>
+Always branch out from `master` to work on your contribution. 
+It's good practice to never work on the `master` branch.
 
-Always branch out from `master` to work on your contribution. It's good practice to never work on the `master` branch!
-
-**Protip: `git stash` is a great way to save the work that you haven't committed yet, to move between branches.**
-
-4. Work on your contribution. Add changed files using `git add` and then `git commit` them:
-
-<pre>
-$ git add modified_files
-$ git commit
-</pre>
+4. Work on your contribution. 
 
 5. Finally, push them to your GitHub fork:
 
-<pre>
-$ git push -u origin my-feature
-</pre>
-
-Now it's time to go to the your fork of Camelot and create a pull request! You can [follow these instructions](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) to do this.
+Now it's time to go to the your fork of this project and create a pull request! 
+You can [follow these instructions](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) to do this.
 
 ### Work on your pull request
 
-We recommend that your pull request complies with the following rules:
-
-- Make sure your code follows [pep8](http://pep8.org).
-
-- In case your pull request contains function docstrings, make sure you follow the [numpydoc](https://numpydoc.readthedocs.io/en/latest/format.html) format. All function docstrings in Camelot follow this format. Moreover, following the format will make sure that the API documentation is generated flawlessly.
+I recommend that your pull request complies with the following rules:
 
 - Make sure your commit messages follow [the seven rules of a great git commit message](https://chris.beams.io/posts/git-commit/):
     - Separate subject from body with a blank line
     - Limit the subject line to 50 characters
     - Capitalize the subject line
     - Do not end the subject line with a period
-    - Use the imperative mood in the subject line
+    - Use the imperative mood in the subject line (Example: Clean your room)
     - Wrap the body at 72 characters
     - Use the body to explain what and why vs. how
 
 - Please prefix the title of your pull request with [MRG] (Ready for Merge), if the contribution is complete and ready for a detailed review. An incomplete pull request's title should be prefixed with [WIP] (to indicate a work in progress), and changed to [MRG] when it's complete. A good [task list](https://blog.github.com/2013-01-09-task-lists-in-gfm-issues-pulls-comments/) in the PR description will ensure that other people get a better idea of what it proposes to do, which will also increase collaboration.
-
-- If contributing new functionality, make sure that you add a unit test for it, while making sure that all previous tests pass. Camelot uses [pytest](https://docs.pytest.org/en/latest/) for testing. Tests can be run using:
-
-<pre>
-$ python setup.py test
-</pre>
 
 ## Writing Documentation
 
@@ -126,28 +100,6 @@ The function docstrings are written using the [numpydoc](https://numpydoc.readth
 
 ## Filing Issues
 
-We use [GitHub issues](https://github.com/socialcopsdev/camelot/issues) to keep track of all issues and pull requests. Before opening an issue (which asks a question or reports a bug), please use GitHub search to look for existing issues (both open and closed) that may be similar.
+We use GitHub issues to keep track of all issues and pull requests. Before opening an issue (which asks a question or reports a bug), please use GitHub search to look for existing issues (both open and closed) that may be similar.
 
-### Questions
-
-Please don't use GitHub issues for support questions. A better place for them would be [Stack Overflow](http://stackoverflow.com). Make sure you tag them using the `python-camelot` tag.
-
-### Bug Reports
-
-In bug reports, make sure you include:
-
-- Your operating system type and Python version number, along with the version numbers of NumPy, OpenCV and Camelot. You can use the following code snippet to find this information:
-
-<pre>
-import platform; print(platform.platform())
-import sys; print('Python', sys.version)
-import numpy; print('NumPy', numpy.__version__)
-import cv2; print('OpenCV', cv2.__version__)
-import camelot; print('Camelot', camelot.__version__)
-</pre>
-
-- The complete traceback. Just adding the exception message or a part of the traceback won't help us fix your issue sooner.
-- Steps to reproduce the bug, using code snippets. See [Creating and highlighting code blocks](https://help.github.com/articles/creating-and-highlighting-code-blocks/).
-- A link to the PDF document that you were trying to extract tables from, telling us what you expected the code to do and what actually happened.
-
-This guide is based on the [camelot](https://github.com/atlanhq/camelot/blob/master/CONTRIBUTING.md) contributor's guide.
+This guide is based on the [Camelot: PDF Table Extraction for Humans](https://github.com/atlanhq/camelot/blob/master/CONTRIBUTING.md) contributor's guide.
