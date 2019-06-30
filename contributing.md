@@ -6,12 +6,6 @@ Thank you very much!
 
 If you have any questions, feel free to reach out to Victor Palacios, the author and maintainer.
 
-## Code of Conduct
-
-The following quote sums up the **Code of Conduct**.
-
-   > Be cordial or be on your way. --Kenneth Reitz
-
 ## Goal of this Repository
 
 To create and maintain a free, intelligent, flashcard repository for data science together. 
@@ -63,10 +57,7 @@ Fork the [project repository](https://github.com/Victor-Palacios/Data_Science_In
 
 2. Clone your fork of this project from your GitHub account:
 
-3. Create a branch to hold your changes:
-
-Always branch out from `master` to work on your contribution. 
-It's good practice to never work on the `master` branch.
+3. Create a branch to hold your changes: Always branch out from `master` to work on your contribution. It's good practice to never work on the `master` branch.
 
 4. Work on your contribution. 
 
@@ -87,5 +78,11 @@ I recommend that your pull request complies with the following rules:
     - Use the imperative mood in the subject line (Example: Clean your room)
     - Wrap the body at 72 characters
     - Use the body to explain what and why vs. how
+
+## Code of Conduct
+
+The following quote sums up the **Code of Conduct**.
+
+   > Be cordial or be on your way. --Kenneth Reitz
 
 This guide is based on the [Camelot: PDF Table Extraction for Humans](https://github.com/atlanhq/camelot/blob/master/CONTRIBUTING.md) contributor's guide.
