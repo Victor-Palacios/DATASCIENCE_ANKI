@@ -45,7 +45,7 @@ Ways to contribute:
 
 Here's what you'll need to read/download to understand what we'll be doing:
 
-1. All of the links in **How Goal is Achieved** to understand Anki
+1. All of the links in **Goal of this Repository** to understand Anki
 2. https://github.com/Stvad/CrowdAnki/blob/master/README.md to understand how to share Anki decks
 3. https://ankiweb.net/shared/info/1788670778 to put the decks in a format to be shared
 
