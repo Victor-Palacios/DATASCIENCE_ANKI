@@ -18,9 +18,9 @@ To create and maintain a free, intelligent, flashcard repository for data scienc
 
 ### How Goal is Achieved
 
-Anki flashcards ([VIDEO](https://youtu.be/FHVOAr8MxxQ?t=88), [DOWNLOAD](https://apps.ankiweb.net), and [ARTICLE](https://www.freecodecamp.org/news/use-spaced-repetition-with-anki-to-learn-to-code-faster-7c334d448c3c/))
-Cloze Deletion Anki flashcards ([VIDEO](https://www.youtube.com/watch?v=IRY1rYxd9EM) and [MANUAL](https://apps.ankiweb.net/docs/manual.html#cloze-deletion)) and
-Occlusion Anki flashcards ([VIDEO](https://www.youtube.com/watch?v=c-4xOe79epU&list=PL3MozITKTz5YFHDGB19ypxcYfJ1ITk_6o&index=2&t=0s) and [DOWNLOAD](https://ankiweb.net/shared/info/1374772155)).
+Anki flashcards ([VIDEO](https://youtu.be/FHVOAr8MxxQ?t=88), [DOWNLOAD](https://apps.ankiweb.net), and [ARTICLE](https://www.freecodecamp.org/news/use-spaced-repetition-with-anki-to-learn-to-code-faster-7c334d448c3c/)),
+Cloze Deletion ([VIDEO](https://www.youtube.com/watch?v=IRY1rYxd9EM) and [MANUAL](https://apps.ankiweb.net/docs/manual.html#cloze-deletion)), and
+Occlusion ([VIDEO](https://www.youtube.com/watch?v=c-4xOe79epU&list=PL3MozITKTz5YFHDGB19ypxcYfJ1ITk_6o&index=2&t=0s) and [DOWNLOAD](https://ankiweb.net/shared/info/1374772155)).
 
 #### More about Anki
 
