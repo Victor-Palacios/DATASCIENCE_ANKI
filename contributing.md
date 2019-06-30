@@ -24,7 +24,7 @@ Occlusion ([VIDEO](https://www.youtube.com/watch?v=c-4xOe79epU&list=PL3MozITKTz5
 
 #### More about Anki
 
-Anki is an Intelligent flashcard system that maximizes learning and minimizes repetition.
+Anki is a free, intelligent, flashcard system that maximizes learning and minimizes repetition.
 
 Make sure you watch how to [make optimal flashcards](https://www.youtube.com/watch?v=AbvaITy3oeQ) as well because if you make bad Anki cards, this will demotivate you and probably make you feel like you’re wasting your time. As well, **making optimal Anki flashcards is a requirement if you wish to contribute flashcards to this repository**.
 
@@ -87,7 +87,5 @@ I recommend that your pull request complies with the following rules:
     - Use the imperative mood in the subject line (Example: Clean your room)
     - Wrap the body at 72 characters
     - Use the body to explain what and why vs. how
-
-- Please prefix the title of your pull request with [MRG] (Ready for Merge), if the contribution is complete and ready for a detailed review. An incomplete pull request's title should be prefixed with [WIP] (to indicate a work in progress), and changed to [MRG] when it's complete. A good [task list](https://blog.github.com/2013-01-09-task-lists-in-gfm-issues-pulls-comments/) in the PR description will ensure that other people get a better idea of what it proposes to do, which will also increase collaboration.
 
 This guide is based on the [Camelot: PDF Table Extraction for Humans](https://github.com/atlanhq/camelot/blob/master/CONTRIBUTING.md) contributor's guide.
