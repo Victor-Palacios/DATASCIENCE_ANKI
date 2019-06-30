@@ -35,6 +35,18 @@ Ways to contribute:
  - Correct anything: mistakes on any flashcards, grammatical errors on the repository, or missing words anywhere (unless omitted for spacing issues on flashcards)
  - Clarify anything: hard-to-understand paragraphs, etc.
 
+### Contributing Anki Cloze Deletion Flashcards
+
+Here are examples of the types of the cards you should contribute and should not contribute:
+
+**GREAT EXAMPLES:**
+![alt text](https://github.com/Victor-Palacios/Data_Science_Interview_Questions_using_Cloze_Deletion/blob/master/IMAGES/Anki_Flashcard_Front.png)
+
+![alt text](https://github.com/Victor-Palacios/Data_Science_Interview_Questions_using_Cloze_Deletion/blob/master/IMAGES/Anki_Flashcard_Back.png)
+
+**AVOID THESE:**
+
+
 ## Setting up
 
 Here's what you'll need to read/download to understand what we'll be doing:
