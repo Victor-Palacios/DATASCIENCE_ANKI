@@ -72,7 +72,7 @@ It's good practice to never work on the `master` branch.
 
 5. Finally, push them to your GitHub fork:
 
-Now it's time to go to the your fork of this project and create a pull request! 
+Now it's time to go to your fork of this project and create a pull request! 
 You can [follow these instructions](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) to do this.
 
 ### Work on your pull request
