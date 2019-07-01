@@ -84,16 +84,25 @@ Helpful, but not required:
 <img src="https://github.com/Victor-Palacios/Data_Science_Interview_Questions_using_Cloze_Deletion/blob/master/IMAGES/AVOID_Anki_Flashcard.png" width="600">
 
 ## Setting up
+1. Download [Anki](https://apps.ankiweb.net)
+2. Download [Image Occlusion](https://ankiweb.net/shared/info/1374772155) to Anki
+  >Or to download this add-on, please copy and paste the following code into Anki: 1374772155
+3. Download [CrowdAnki: JSON export&import](https://ankiweb.net/shared/info/1788670778) to Anki
+  >Or to download this add-on, please copy and paste the following code into Anki: 1788670778
+4. Create a GitHub account for yourself
+5. Clone this repository to your account
+6. Open the "Learn Fundamentals of Data Science with Anki using Cloze Deletion and Image Occlusion" in Anki using Anki's import 
+  >It's a JSON file located in the 00_MASTER_Anki_JSON_file folder (I recommend using https://desktop.github.com to manipulate github without using the terminal) 
 
-Here's what you'll need to read/download to understand what we'll be doing:
 
-1. All of the links in **Goal of this Repository** to understand Anki
-2. https://github.com/Stvad/CrowdAnki/blob/master/README.md to understand how to share Anki decks
-3. https://ankiweb.net/shared/info/1788670778 to put the decks in a format to be shared
 
-Optional, but helpful:
+* The user creates or imports an Anki deck.
+* He makes some modification to it (i.e. to notes, deck settings, deck structure or note models).
+* Then the user can export the deck in JSON format (accompanied by media directory with media files used in that deck) and share it with other users. For example by creating GitHub repository with it.
+* Other people then can either modify JSON directly or import the deck to their instance of Anki and then make some modifications to it.
+* Original JSON then can be updated the with the changes, these people made (merging several changes together if necessary).
+* After that original user (and other people) can import updated deck to integrate these new changes into their collection.
 
-1. https://desktop.github.com to manipulate github without using the terminal
 
 ## Pull Requests
 
