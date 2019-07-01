@@ -53,7 +53,7 @@ Here are rules and examples of the types of the cards you should contribute and 
   >Why? You will review these cards hundreds of times. It is best that you review only meaningful information to develop your spidey sense (that sense when you know something is wrong or right, but can't explain why right away). This sense is best developed by practicing straightforward cards.
 7. Don’t copy and paste any paid source material into your flashcards that you upload to this public deck (like DataCamp material for example) (this type of material is okay for personal decks but not for publicly shared decks)
   >Why? We don't want companies asking us to take this deck off the web. If in doubt, make sure to use generic terms for something like python code: df.z.plot(x,y), or write things in your own voice, or summarize, etc.
-8. tag each card with 1 of 7 categories (i.e., statistics, python, machine learning, deep learning, statistics + python, machine learning + python, or deep learning + python)
+8. Tag each card with 1 of 7 categories (i.e., statistics, python, machine learning, deep learning, statistics + python, machine learning + python, or deep learning + python)
   >Why? This helps me create [sub-decks](https://www.reddit.com/r/Anki/comments/5nujhp/how_to_make_subdecks_and_organize_your_collection/) so that people learning data science can choose what topics they want to study or review first.
 9. If cards require explanation, use as much space on the BACK of the flashcard as needed
   >Why? Take all the time you need to understand why the front of the card has the answer it does, but when reviewing, minimal information on the front of the card is paramount.
