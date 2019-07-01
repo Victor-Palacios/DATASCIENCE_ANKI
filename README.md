@@ -1,2 +1,2 @@
-# Data_Science_Interview_Questions_using_Cloze_Deletion_and_Image_Occlusion
-Data Science interview questions using Cloze Deletion and Image Occlusion on Anki
+# Learn Fundamentals of Data Science using Close Deletion and Image Occlusion with Anki
+See **How_to_Contribute** for getting started.
