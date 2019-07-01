@@ -1,3 +1,5 @@
+## Thanks!
+
 If you're reading this, you're probably looking to contributing to this project. 
 **The fact that you're considering spending some time here is very generous of you.**
 Thank you very much!
