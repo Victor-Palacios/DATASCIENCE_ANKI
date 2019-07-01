@@ -29,7 +29,7 @@ While Anki does have data science [decks already uploaded](https://ankiweb.net/s
 2. Make this repository more beautiful by reading:
   - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and adding tables, images, etc
   - [36 Amazing Python Open Source Projects (v.2019)](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450) to get a sense of what beautiful projects look like
-  - [Starting an Open Source Project guide](https://opensource.guide/starting-a-project/
+  - [Starting an Open Source Project guide](https://opensource.guide/starting-a-project/)
 3. Correct anything: mistakes on any flashcards, grammatical errors on the repository, or missing words anywhere (unless omitted for spacing issues on flashcards)
 4. Clarify anything: hard-to-understand paragraphs, etc.
 
