@@ -22,26 +22,22 @@ Anki is a free, intelligent, flashcard system that maximizes learning and minimi
 
 Once you understand the basics of how Anki works, you can watch how to [make optimal flashcards](https://www.youtube.com/watch?v=AbvaITy3oeQ) because if you make bad Anki cards, that would demotivate and make you feel like you’re wasting your time. As well, **making optimal Anki flashcards is a requirement if you wish to contribute flashcards to this repository**.
 
-While Anki does have data science decks already uploaded, most are not optimized for learning and frequently violate the [minimum information principle](https://www.supermemo.com/en/archives1990-2015/articles/20rules#minimum%20informationprinciple).
+While Anki does have data science [decks already uploaded](https://ankiweb.net/shared/decks/Data%20Sci), most are not optimized for learning and frequently violate the [minimum information principle](https://www.supermemo.com/en/archives1990-2015/articles/20rules#minimum%20informationprinciple).
 
 ## Ways to Contribute
-
-1.Create Anki cloze deletion or occlusion flashcards and upload them to this repository
-
-
-2.Make this repository more beautiful by reading:
-
-   - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and adding tables, images, etc
-   - [36 Amazing Python Open Source Projects (v.2019)](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450) to get a sense of what beautiful projects look like
-   - [Starting an Open Source Project guide](https://opensource.guide/starting-a-project/)
- - Correct anything: mistakes on any flashcards, grammatical errors on the repository, or missing words anywhere (unless omitted for spacing issues on flashcards)
- - Clarify anything: hard-to-understand paragraphs, etc.
+1. Create Anki cloze deletion or occlusion flashcards and upload them to this repository
+2. Make this repository more beautiful by reading:
+  - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and adding tables, images, etc
+  - [36 Amazing Python Open Source Projects (v.2019)](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450) to get a sense of what beautiful projects look like
+  - [Starting an Open Source Project guide](https://opensource.guide/starting-a-project/
+3. Correct anything: mistakes on any flashcards, grammatical errors on the repository, or missing words anywhere (unless omitted for spacing issues on flashcards)
+4. Clarify anything: hard-to-understand paragraphs, etc.
 
 ### Contributing Anki Cloze Deletion Flashcards
 
 Here are rules and examples of the types of the cards you should contribute and should not contribute:
 
-**Flashcard Rules**
+**FLASHCARD RULES**
 
 1. Cloze Deletion or Occlusion flashcards only
   >Why? These types of cards typically adhere to the [minimum information principle](https://www.supermemo.com/en/archives1990-2015/articles/20rules#minimum%20informationprinciple)
@@ -60,7 +56,7 @@ Here are rules and examples of the types of the cards you should contribute and 
 8. tag each card with 1 of 7 categories (i.e., statistics, python, machine learning, deep learning, statistics + python, machine learning + python, or deep learning + python)
   >Why? This helps me create [sub-decks](https://www.reddit.com/r/Anki/comments/5nujhp/how_to_make_subdecks_and_organize_your_collection/) so that people learning data science can choose what topics they want to study or review first.
 9. If cards require explanation, use as much space on the BACK of the flashcard as needed
-  >Why? Take all the time you need to understand why the front of the card has the answer it does. But when reviewing, minimal information on the front of the card is paramount.
+  >Why? Take all the time you need to understand why the front of the card has the answer it does, but when reviewing, minimal information on the front of the card is paramount.
 
 Helpful, but not required:
 
@@ -85,7 +81,7 @@ Helpful, but not required:
 
 <img src="https://github.com/Victor-Palacios/Data_Science_Interview_Questions_using_Cloze_Deletion/blob/master/IMAGES/AVOID_Anki_Flashcard.png" width="600">
 
-## Setting up
+## Setting Up to Contribute
 1. Download [Anki](https://apps.ankiweb.net)
 2. Download [Image Occlusion](https://ankiweb.net/shared/info/1374772155) to Anki
   >Or to download this add-on, please copy and paste the following code into Anki: 1374772155
@@ -95,7 +91,7 @@ Helpful, but not required:
 5. Clone this repository to your account
   >If you need a refresher on how to do this and the steps below, this [repository](https://github.com/Stvad/CrowdAnki/blob/master/README.md#import-from-github) covers these in greater detail.
 6. Create a branch to hold your changes: Always branch out from `master` to work on your contribution. It's good practice to never work on the `master` branch.
-7. Open the "Learn Fundamentals of Data Science with Anki using Cloze Deletion and Image Occlusion" in Anki using Anki's import 
+7. Open the "Learn Fundamentals of Data Science with Anki using Cloze Deletion and Image Occlusion" deck in Anki using Anki's import 
   >It's a JSON file located in the 00_MASTER_Anki_JSON_file folder (I recommend using https://desktop.github.com to manipulate github without using the terminal) 
 8. Try studying from the deck to get a feel for how the flashcards are made.
 9. Once you're comfortable with Anki, create your own deck using Create Deck (title it: New_Cards_Your_GitHub_UserName) if you want to add flashcards to this repository
