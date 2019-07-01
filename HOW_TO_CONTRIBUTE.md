@@ -20,7 +20,7 @@ Occlusion ([VIDEO](https://www.youtube.com/watch?v=c-4xOe79epU&list=PL3MozITKTz5
 
 Anki is a free, intelligent, flashcard system that maximizes learning and minimizes repetition.
 
-Once you understand the basics of how Anki works, you can watch how to [make optimal flashcards](https://www.youtube.com/watch?v=AbvaITy3oeQ) because if you make bad Anki cards, that would demotivate and make you feel like you’re wasting your time. As well, **making optimal Anki flashcards is a requirement if you wish to contribute flashcards to this repository**.
+Once you understand the basics of how Anki works, you can watch how to [make optimal flashcards](https://www.youtube.com/watch?v=AbvaITy3oeQ) because if you make bad Anki cards, that will demotivate and make you feel like you’re wasting your time. As well, **making optimal Anki flashcards is a requirement if you wish to contribute flashcards to this repository**.
 
 While Anki does have data science [decks already uploaded](https://ankiweb.net/shared/decks/Data%20Sci), most are not optimized for learning and frequently violate the [minimum information principle](https://www.supermemo.com/en/archives1990-2015/articles/20rules#minimum%20informationprinciple).
 
