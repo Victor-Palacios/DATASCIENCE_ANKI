@@ -24,11 +24,13 @@ Once you understand the basics of how Anki works, you can watch how to [make opt
 
 While Anki does have data science decks already uploaded, most are not optimized for learning and frequently violate the [minimum information principle](https://www.supermemo.com/en/archives1990-2015/articles/20rules#minimum%20informationprinciple).
 
-## How to Contribute
+## Ways to Contribute
 
-Ways to contribute:
- - Create Anki cloze deletion or occlusion flashcards and upload them to this repository
- - Make this repository more beautiful by reading:
+1.Create Anki cloze deletion or occlusion flashcards and upload them to this repository
+
+
+2.Make this repository more beautiful by reading:
+
    - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and adding tables, images, etc
    - [36 Amazing Python Open Source Projects (v.2019)](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450) to get a sense of what beautiful projects look like
    - [Starting an Open Source Project guide](https://opensource.guide/starting-a-project/)
