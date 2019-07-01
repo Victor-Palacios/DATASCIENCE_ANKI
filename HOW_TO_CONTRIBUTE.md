@@ -91,18 +91,18 @@ Helpful, but not required:
   >Or to download this add-on, please copy and paste the following code into Anki: 1788670778
 4. Create a GitHub account for yourself
 5. Clone this repository to your account
-6. Open the "Learn Fundamentals of Data Science with Anki using Cloze Deletion and Image Occlusion" in Anki using Anki's import 
+
+6. Create a branch to hold your changes: Always branch out from `master` to work on your contribution. It's good practice to never work on the `master` branch.
+7. Open the "Learn Fundamentals of Data Science with Anki using Cloze Deletion and Image Occlusion" in Anki using Anki's import 
   >It's a JSON file located in the 00_MASTER_Anki_JSON_file folder (I recommend using https://desktop.github.com to manipulate github without using the terminal) 
-
-
-
-* The user creates or imports an Anki deck.
-* He makes some modification to it (i.e. to notes, deck settings, deck structure or note models).
-* Then the user can export the deck in JSON format (accompanied by media directory with media files used in that deck) and share it with other users. For example by creating GitHub repository with it.
-* Other people then can either modify JSON directly or import the deck to their instance of Anki and then make some modifications to it.
-* Original JSON then can be updated the with the changes, these people made (merging several changes together if necessary).
-* After that original user (and other people) can import updated deck to integrate these new changes into their collection.
-
+8. Try studying from the deck to get a feel for how the flashcards are made.
+9. Once you're comfortable with Anki, create your own deck using Create Deck (title it: New_Cards_Your_GitHub_UserName) if you want to add flashcards to this repository
+  >If you want to edit/correct/improve cards in the master deck, simply write which card(s) need(s) improvement in the Issues section of Github and I'll fix it.
+10. Export your new deck that you want to add to the master deck via Export in Anki and use the format "CrowdAnki JSON"
+11. Create a new folder in your clone repository titled "New_Cards_Your_GitHub_UserName"
+12. Add your new deck json file to your new folder.
+13. Sync and your done!
+  >I'll review the cards you want to add, then give feedback if anything needs to be changed. If there's no feedback needed, I'll just add your cards to the master deck.
 
 ## Pull Requests
 
