@@ -91,7 +91,7 @@ Helpful, but not required:
   >Or to download this add-on, please copy and paste the following code into Anki: 1788670778
 4. Create a GitHub account for yourself
 5. Clone this repository to your account
-
+  >If you need a refresher on how to do this and the steps below, this [repository](https://github.com/Stvad/CrowdAnki/blob/master/README.md#import-from-github) covers these in greater detail.
 6. Create a branch to hold your changes: Always branch out from `master` to work on your contribution. It's good practice to never work on the `master` branch.
 7. Open the "Learn Fundamentals of Data Science with Anki using Cloze Deletion and Image Occlusion" in Anki using Anki's import 
   >It's a JSON file located in the 00_MASTER_Anki_JSON_file folder (I recommend using https://desktop.github.com to manipulate github without using the terminal) 
@@ -100,41 +100,9 @@ Helpful, but not required:
   >If you want to edit/correct/improve cards in the master deck, simply write which card(s) need(s) improvement in the Issues section of Github and I'll fix it.
 10. Export your new deck that you want to add to the master deck via Export in Anki and use the format "CrowdAnki JSON"
 11. Create a new folder in your clone repository titled "New_Cards_Your_GitHub_UserName"
-12. Add your new deck json file to your new folder.
+12. Add your new deck (in json format) to your new folder.
 13. Sync and your done!
   >I'll review the cards you want to add, then give feedback if anything needs to be changed. If there's no feedback needed, I'll just add your cards to the master deck.
-
-## Pull Requests
-
-### Submit a pull request
-
-Fork the [project repository](https://github.com/Victor-Palacios/Data_Science_Interview_Questions_using_Cloze_Deletion) on GitHub, clone, develop on a branch and then finally submit a pull request. Here are the steps:
-
-1. Fork the project repository. Click on the ‘Fork’ button near the top of the page. This creates a copy of the code under your account on the GitHub.
-
-2. Clone your fork of this project from your GitHub account:
-
-3. Create a branch to hold your changes: Always branch out from `master` to work on your contribution. It's good practice to never work on the `master` branch.
-
-4. Work on your contribution. 
-
-5. Finally, push them to your GitHub fork:
-
-Now it's time to go to your fork of this project and create a pull request! 
-You can [follow these instructions](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) to do this.
-
-### Work on your pull request
-
-I recommend that your pull request complies with the following rules:
-
-- Make sure your commit messages follow [the seven rules of a great git commit message](https://chris.beams.io/posts/git-commit/):
-    - Separate subject from body with a blank line
-    - Limit the subject line to 50 characters
-    - Capitalize the subject line
-    - Do not end the subject line with a period
-    - Use the imperative mood in the subject line (Example: Clean your room)
-    - Wrap the body at 72 characters
-    - Use the body to explain what and why vs. how
 
 ## Code of Conduct
 
