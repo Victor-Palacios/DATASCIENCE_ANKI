@@ -97,7 +97,7 @@ Helpful, but not required:
 9. Once you're comfortable with Anki, create your own deck using Create Deck (title it: New_Cards_Your_GitHub_UserName) if you want to add flashcards to this repository
   >If you want to edit/correct/improve cards in the master deck, simply write which card(s) need(s) improvement in the Issues section of Github and I'll fix it.
 10. Export your new deck that you want to add to the master deck via Export in Anki and use the format "CrowdAnki JSON"
-11. Add your new deck (in json format) into the Under_Review folder.
+11. Add your new deck (in json format) into the 01_UNDER_REVIEW folder.
 12. Sync and your done!
   >I'll review the cards you want to add, then give feedback if anything needs to be changed. If there's no feedback needed, I'll just add your cards to the master deck.
 
