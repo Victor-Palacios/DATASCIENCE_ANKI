@@ -1,5 +1,3 @@
-# Contributor's Guide
-
 If you're reading this, you're probably looking to contributing to this project. 
 **The fact that you're considering spending some time here is very generous of you.**
 Thank you very much!
@@ -8,7 +6,7 @@ If you have any questions, feel free to reach out to Victor Palacios, the author
 
 ## Goal of this Repository
 
-To create and maintain a free, intelligent, flashcard repository for data science together. 
+To create and maintain a free, intelligent, flashcard repository for data science as a community. 
 
 ### How Goal is Achieved
 
@@ -20,14 +18,14 @@ Occlusion ([VIDEO](https://www.youtube.com/watch?v=c-4xOe79epU&list=PL3MozITKTz5
 
 Anki is a free, intelligent, flashcard system that maximizes learning and minimizes repetition.
 
-Make sure you watch how to [make optimal flashcards](https://www.youtube.com/watch?v=AbvaITy3oeQ) as well because if you make bad Anki cards, this will demotivate you and probably make you feel like you’re wasting your time. As well, **making optimal Anki flashcards is a requirement if you wish to contribute flashcards to this repository**.
+Once you understand the basics of how Anki works, you can watch how to [make optimal flashcards](https://www.youtube.com/watch?v=AbvaITy3oeQ) because if you make bad Anki cards, that would demotivate and make you feel like you’re wasting your time. As well, **making optimal Anki flashcards is a requirement if you wish to contribute flashcards to this repository**.
 
-While Anki does have data science decks already uploaded, most are not optimized for learning and frequently violate the [minimum information principle](https://supermemo.guru/wiki/Minimum_information_principle).
+While Anki does have data science decks already uploaded, most are not optimized for learning and frequently violate the [minimum information principle](https://www.supermemo.com/en/archives1990-2015/articles/20rules#minimum%20informationprinciple).
 
 ## How to Contribute
 
 Ways to contribute:
- - Create Anki cloze deletion flashcards and upload them to this repository
+ - Create Anki cloze deletion or occlusion flashcards and upload them to this repository
  - Make this repository more beautiful by reading:
    - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and adding tables, images, etc
    - [36 Amazing Python Open Source Projects (v.2019)](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450) to get a sense of what beautiful projects look like
@@ -37,7 +35,31 @@ Ways to contribute:
 
 ### Contributing Anki Cloze Deletion Flashcards
 
-Here are examples of the types of the cards you should contribute and should not contribute:
+Here are rules and examples of the types of the cards you should contribute and should not contribute:
+
+**Flashcard Rules**
+
+1. Cloze Deletion or Occlusion flashcards only
+  >Why? These types of cards typically adhere to the [minimum information principle](https://www.supermemo.com/en/archives1990-2015/articles/20rules#minimum%20informationprinciple)
+2. 7 lines maximum per flashcard (that is, 7 returns/enters)
+  >Why? Less is better. Looking at a giant blob of text can be demotivating. You can want the flashcards to pack as much information as succinctly as possible. Want to read more about memory and learning? See the [Anki manual](https://apps.ankiweb.net/docs/manual.html#active-recall-testing).
+3. 42 characters maximum per line (spaces count as 1 character)
+  >Why? 7 lines x 42 characters per line fits perfectly on small phone screens so no scrolling is needed to answer a flash card.
+4. Leave at least 1 of the 7 lines free of text (i.e., include at least 1 blank line)
+  >Why? 7 full lines of text is daunting, especially back-to-back. The goal is to learn 40 cards per day, review 160 cards per day, and do both in 1 hour exactly. For that to be the case, as a general rule, if you can’t answer within about 15 seconds, it’s probably better to give up and show the answer than keep struggling to remember. That is only possible if we constrain how much text is on a single card.
+5. No algorithms because they typically violate rule 2, 3, 4 and the minimum information principle
+  >Why? In general, Anki is not meant to learn complex material, but rather focus on building block items so that when you encounter complex material it is easier to absorb and recall later.
+6. Don’t create tricky wording cards (ex: FRONT remove “x” from list with index number BACK del lst[0])
+  >Why? You will review these cards hundreds of times. It is best that you review only meaningful information to develop your spidey sense (that sense when you know something is wrong or right, but can't explain why right away). This sense is best developed by practicing straightforward cards.
+7. Don’t copy and paste any paid source material (like DataCamp material for example) (this type of material is okay for personal decks but not for publicly shared decks)
+8. tag each card with 1 of 7 categories (i.e., statistics, python, machine learning, deep learning, statistics + python, machine learning + python, or deep learning + python)
+9. If cards require explanation, use as much space on the BACK of the flashcard as needed
+
+Helpful, but not required:
+
+1. remove articles (a, the, etc,) when unnecessary 
+2. use arrows, colons, and other symbols like <, >,or = to show transformation or separate ideas instead of using words as humans process imagery faster than words
+3. use # to indicate topic followed by a blank space
 
 **GREAT EXAMPLES:**
 ![alt text](https://github.com/Victor-Palacios/Data_Science_Interview_Questions_using_Cloze_Deletion/blob/master/IMAGES/Anki_Flashcard_Front.png)
