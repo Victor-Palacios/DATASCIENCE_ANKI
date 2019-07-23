@@ -27,6 +27,7 @@
                 "Screen Shot 2019-06-04 at 00.14.27.png",
                 "Screen Shot 2019-06-15 at 20.40.13.png",
                 "Screen Shot 2019-06-15 at 20.49.19.png",
+                "paste-3e0b097c62aec5d4b209c3d15d45f397feae09ed.jpg",
                 "paste-e4073a2d5d35bd61d5c95bd26aaa4f8c44f977c0.jpg"
             ],
             "name": "Statistics",
@@ -343,8 +344,8 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "<div>{{c1::Statistical Interactions}}: the effect of one {{c2::independent }} variable on the {{c3::dependent}} variable differing among levels of {{c4::another}} factor. For example, a drug causing pain only in {{c5::women}}, who would otherwise have the same amount of pain as {{c6::men}} without the drug.</div>",
-                        "<img src=\"paste-e4073a2d5d35bd61d5c95bd26aaa4f8c44f977c0.jpg\">"
+                        "<div>{{c1::Interaction}}: the effect of one {{c2::independent }} variable on the {{c3::dependent}} variable differing among levels of {{c4::another}} factor.&nbsp;</div>",
+                        "<div>For example, a drug causing pain only in women, who would otherwise have the same amount of pain as men without the drug.</div><div><br></div><img src=\"paste-e4073a2d5d35bd61d5c95bd26aaa4f8c44f977c0.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "mksot-/O&k",
@@ -385,8 +386,8 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Non-Gaussian distributions:<div><div>B{{c1::eta}} Distribution</div><div>E{{c2::xponential}} Distribution</div><div>P{{c3::oisson}} Distribution<br></div><div>S{{c4::kewed}} Distribution</div><div>U{{c5::niform}} Distribution</div></div>",
-                        ""
+                        "Non-Gaussian distributions:<div><div><div>S{{c4::kewed}} Distribution</div>U{{c5::niform}} Distribution<br></div><div><div>P{{c3::oisson}} Distribution<br></div><div>E{{c2::xponential}} Distribution</div></div><div>B{{c1::eta}} Distribution</div></div>",
+                        "<div><br></div><div>mnemonic: SUPErB</div>"
                     ],
                     "flags": 0,
                     "guid": "lTr2m3ZA5L",
@@ -630,6 +631,1117 @@
                     "tags": [
                         "Statistics"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c2::bar plots}} are for {{c1::discrete}} data counts<div><br></div>",
+                        "discrete : individually separate and distinct."
+                    ],
+                    "flags": 0,
+                    "guid": "hsDC4|a(-L",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "df"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div> <div> <div> <div>a {{c1::histogram}} shows the {{c2::frequency}} <b><u>of each {{c3::value}}</u></b></div> </div> </div></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "JsJNsK+m4t",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div> <div> <div> <div>{{c1::effect size}}: quantifies the size of an effect like a {{c2::difference}} between {{c3::groups}}.&nbsp;</div> </div> </div></div>",
+                        "is a summary statistic"
+                    ],
+                    "flags": 0,
+                    "guid": "Fc_F4`vO%k",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Frequentists}}&nbsp;assume that {{c2::probability}} is the long-run {{c3::frequency}} of events<div><br></div>",
+                        "Frequentist: Probability =&gt; how frequently it has occurred<div>Bayesian: Probability =&gt; how often we believe it will occur</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "djy(LRCHN~",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c2::P(A)}} -&gt; initial belief called {{c1::<em>prior probability</em>}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "l_$7Yys6:u",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c2::P(A|X)}} -&gt; updated belief called {{c1::posterior probability}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "uLX[;o[f(y",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Bayesian analysis, by introducing a prior P(A), and returning probabilities (instead of a scalar estimate), {{c1::preserves}}<em>&nbsp;the&nbsp;</em>{{c2::uncertainty}} of statistical inference of a {{c3::small}} dataset.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Hz%|OK%N]v",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Bayesian methods complement Frequentist methods by solving problems that Frequentist approaches {{c1::cannot}}, or by illuminating the underlying {{c2::system}} with more {{c3::flexible}} modeling.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "i,9$U(_)dB",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Let&nbsp;Z&nbsp;be some random {{c2::variable}}. Then associated with&nbsp;Z&nbsp;is a {{c1::probability distribution}}<em>&nbsp;function</em>&nbsp;that assigns {{c3::probabilities}} to the different {{c4::outcomes}}&nbsp;Z&nbsp;can take.",
+                        "Statistics"
+                    ],
+                    "flags": 0,
+                    "guid": "w]*EuAx]jO",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>We can divide random {{c5::variables}} into three {{c4::classifications}}:</div><div><div>{{c1::discrete}},&nbsp;{{c2::continuous}},&nbsp;{{c3::mixed}}</div></div>",
+                        "<div><strong>discrete</strong>: Discrete random variables may only assume values on a specified list. Things like populations, movie ratings, and number of votes are all discrete random variables.</div><div><br></div><div><strong>continuous</strong>: Continuous random variable can take on arbitrarily exact values. For example, temperature, speed, time, color are all modeled as continuous variables because you can progressively make the values more and more precise.</div><div><br></div><div><strong>mixed</strong>: Mixed random variables assign probabilities to both discrete and continuous random variables</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "pb(qHHy8M2",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>{{c3::discrete}}<strong>&nbsp;random variables</strong>:&nbsp;</div><div><br></div><div>only assume {{c2::values}} on a {{c1::specified}} list</div>",
+                        "<div>Things like populations, movie ratings, and number of votes are all discrete random variables.</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "lT;~%eX9O9",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>{{c3::continuous}}<strong>&nbsp;random variables</strong>:&nbsp;</div><div><br></div><div>take on {{c1::values}} that can become more and more arbitrarily {{c2::precise}}.<br></div>",
+                        "<div>For example, temperature, speed, time, color are all modeled as continuous variables because you can progressively make the values more and more precise.</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "GE<:nsd878",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Populations, movie ratings, and number of votes are all {{c1::discrete}} random variables.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "dKT6]37/<e",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Temperature, speed, time, color are all {{c1::continuous}} variables because you can progressively make the values more and more precise.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "rJ}.DS-kkF",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "If a random variable is {{c2::discrete}}, then its {{c3::distribution}} is called a {{c1::probability mass function}}.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "nX~ZnH1NF8",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "Statistics"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<em>Poisson</em>-distributed -&gt;&nbsp;<div>{{c1::probability mass}} function</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "z;>|9/r,N^",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "Statistics"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "A {{c1::continuous}} random variable has a {{c2::probability density}}<em>&nbsp;function</em>.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "EB#{Zq=J&Y",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "Statistics"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c4::Higher}} values of&nbsp;{{c1::λ}} assigns more {{c2::probability}} to {{c3::larger}} outcomes.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "r!aO.[6y}Z",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "Statistics"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "two&nbsp;λ&nbsp;parameters: one for the period before&nbsp;{{c2::τ}}, and one for the rest of the observation period.&nbsp;<div><br></div><div>A sudden transition like this would be called a {{c1::switchpoint}}.</div>",
+                        "<div><br></div><div>read \"tau\"<br></div><div><br></div><div><img src=\"paste-3e0b097c62aec5d4b209c3d15d45f397feae09ed.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "LHD#p_6m,+",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "Statistics"
+                    ]
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "2ac2e6b4-ad20-11e9-808b-48bf6bddbf30",
+            "deck_config_uuid": "98d229ba-9bac-11e9-9077-48bf6bddbf30",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "paste-3399eb78453c5485ad336ee89b74e0b23a78cfb2.jpg",
+                "paste-e7e631b27e003414ca73b3fd19362b55d4692f80.jpg"
+            ],
+            "name": "Python",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "plt.{{c1::tight_layout}}() -&gt; improve {{c2::spacing}} between {{c3::subplots}}<br>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "sK_C$?V8HH",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div># for \"x\"&nbsp;</div><div># where \"y\" &lt; 5<div><div># assign numpys nan&nbsp;<br></div><div><br>df{{c1::.x}}{{c3::[}}df[\"y\"] &lt; 5{{c3::]}} = {{c2::np.nan}}</div></div></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "u@HN:l-kQ1",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "# drop duplicates<div><br>df.{{c1::drop_duplicates()}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "e%R*`sW;Hj",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c3::df.columns}},&nbsp;{{c2::df.shape}},&nbsp;{{c4::df.index}} do not have {{c1::()}} at their end.<div><br></div>",
+                        "mnemonic: C S I<div>Cole Shapes Indexes</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "lnG#>WzdHc",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "# Concatenate df1 and df2 <b><u>column-wise</u></b><br><br><div>{{c3::pd.concat}}({{c2::[df1,df2]}},{{c1::axis=1}})</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "HK`aumUatV",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c2::glob.}}glob() returns a {{c1::list}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "M9ZpSijNtH",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "# Merge DataFrames<br><br><div>{{c1::pd.merge}}({{c2::left}}=df1, {{c2::right}}=df2, {{c3::left_on}}=\"x\", {{c3::right_on}}=\"y\")</div>",
+                        "if the columns names are the same then left_on and right_on become on=\"x\""
+                    ],
+                    "flags": 0,
+                    "guid": "L/5AZQ|Rz&",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "# Import regular expression<div><br>import {{c1::re}}<br></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "A[gaDWU|-;",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "# regular expression -&gt; findall numerics<div><br>{{c1::re.findall}}({{c2::'\\d+'}}, 'gain 1 point per 25 dollars spent')<br></div>",
+                        "<div><br></div>\\d -&gt; digits<div>+&nbsp; -&gt; just in case double digits, triple digits, etc.</div><div>&nbsp; &nbsp; &nbsp; &nbsp; (i.e., not 1, 2, 5 but 1, 25)</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "PH*/QO9C|J",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>#conditionals in comprehension<br></div><div><br></div>[target {{c1::if}} len(target)&gt;=1 {{c2::else}} \"\" {{c3::for}} target in lst]",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "C>,Elcu/c,",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::generator}} functions use {{c2::yield}}, not return.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "L7B}zwpT%5",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Python's native d{{c3::ata structures}}<br><div><div>{{c6::strings}},</div></div><div>{{c1::list}}<em>,&nbsp;</em></div><div>{{c2::tuple}}<em>,&nbsp;</em></div><div>{{c4::dictionary}}<em>,</em></div><div>{{c5::set}},<br></div><div>{{c7::frozensets}}<br></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "swj`#Dhmab",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "Python"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "#Dictionary<div><br><div>{{c1::keys}} : {{c2::only immutable}} objects&nbsp;</div><div>{{c1::values}}: {{c3::either}} {{c4::immutable or mutable}} objects</div></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "smHnboE6a0",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "Python"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c2::key-value}} pairs in a {{c3::dictionary}} are not {{c1::ordered}} in any manner.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "wQ~n-q!fjm",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "Python"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c2::Sets}}, unlike {{c3::lists}} or {{c3::tuples}}, cannot contain the {{c1::same}} element.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "incW6jkt+S",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "Python"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "A {{c1::set}} must be {{c2::explicitly}} initialized -&gt; {{c3::set()}}<div><br></div><div>unlike a dictionary for example.</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "f)d;MYQqYg",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "Python"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Lists}}, {{c2::strings}} and {{c3::tuples}} are {{c4::ordered}} {{c5::sequences}} of {{c6::objects}}.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "N;0J<!3Udx",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "Python"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::list}} and {{c2::tuples}} can contain {{c3::any}} type of {{c4::objects}}.&nbsp;",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "MzGNb+FS:]",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "Python"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Sets are a m{{c1::utable}} u{{c2::nordered}} s{{c3::equence}} of u{{c4::nique}} elements.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Qc2BB2J8H;",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "Python"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "F{{c1::rozensets}} are {{c2::immutable}} {{c3::sets}}.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "pBMn8A21/e",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "Python"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>Dictionary {{c2::keys}} are {{c1::immutable}} for {{c3::efficiency}}.</div><div><br></div>",
+                        "The secret of dictionaries' ruthless efficiency is that for each item, the dictionary calculates a hash of the key based on its content, and uses that to store the item at a specific location in memory.&nbsp;If the key were a mutable object, its value could change, and thus its hash could also change making it less efficient."
+                    ],
+                    "flags": 0,
+                    "guid": "qH+<~Y6+Qx",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "Python"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "The {{c1::while}} loop tells the computer to do something as long as the {{c2::condition}} is met.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "ChP_o-}0Uo",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "Python"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "a {{c2::\"for}} loop\" is a piece of code which you want to repeat {{c1::n}} number of times.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "zRqx#Xue}j",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "Python"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Packages useful for Data Science:<div>p{{c1::andas}}</div><div>N{{c2::umPy}}</div><div>S{{c3::ciP}}y</div><div>S{{c4::tatsMod}}els<br><div><br></div><div><br></div></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "tht.0F0CV^",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "Python"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Packages useful for Data Science:<div>M{{c1::atplotlib}}</div><div>S{{c2::eaborn}}</div><div>P{{c3::lotly}}</div><div>B{{c4::okeh}}</div><div><br></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "w.A98bWvp@",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "Python"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Packages useful for Data Science:<div>S{{c1::cikit-le}}arn<br></div><div>T{{c2::ensorflow}}</div><div>K{{c3::eras}}</div><div>Py{{c4::torch}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "PQq)e`Ck@@",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "Python"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "additional data structures available in the standard library:<div><br></div><div>name{{c1::dtuple}}</div><div>Cou{{c2::nters}}</div><div>Ord{{c3::eredDict}}</div><div>def{{c4::aultdict}}<br></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "P:SJ#3L,q>",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "additional data structures available in the standard library:<div><br></div><div>dat{{c1::etime}}</div><div>ar{{c2::ray}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "F5n^X~^kxG",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>#multi index with Index Slice</div><div><br></div>df.{{c1::loc}}['datetime1':'datetime2', {{c2::pd.}}{{c3::IndexSlice}}[:, 'x']]",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "rIGjOVc#MB",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "pd.concat() 's {{c1::inner}} join -&gt; only labels that are {{c2::shared}} among dfs<div><br></div><div>{{c1::outer}} join -&gt; {{c2::all}} labels among dfs</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "ux5=w~4%Ej",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "#compute percentage change&nbsp;<div><div><br></div><div>#per 5 periods (like hrs, days, etc.)</div></div><div><br></div><div>{{c1::.pct_change}}{{c2::(5)}}<br></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "pN%*SOPw2M",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>merge is an {{c1::inner}} join, because it only keeps labels that {{c2::match}} in all df's<br></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "m}gik-b#GE",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div># Merge dfs on 3 columns&nbsp;</div><div><br></div><div>{{c1::pd.merge}}({{c2::x,y}},{{c3::on=}}{{c4::[\"a\",\"b\",\"c\"]}})</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "pGbvCNPvP1",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "#pd.{{c1::merge_asof}}()<div><br></div><div>merge as left {{c2::join}} with {{c3::loose}} match instead of {{c4::exact}} match</div>",
+                        "<div><br></div>only rows (from right df)&nbsp;<div>whose&nbsp;'on'&nbsp;column values &lt;&nbsp;left df</div><div><div>are kept</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "g3zNf?F:;H",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "#Read 1st 5 rows of x into df<div><br>pd.read_csv(x,{{c1::nrows}}={{c2::5}})</div>",
+                        "Python"
+                    ],
+                    "flags": 0,
+                    "guid": "qP{dwRd@LJ",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div># glob&nbsp;</div><div># list comprehension&nbsp;</div><div># regular expression wildcard</div><div><br></div><div><div>df = {{c4::[}}pd.read_csv(x) for x in {{c1::glob}}(\"filename{{c2::*}}.csv\"){{c4::]}}</div></div>",
+                        "<div>files = {{c1::glob}}(\"filename{{c2::*}}.csv\")<div><div>df = {{c4::[}}pd.read_csv(x) {{c3::for x in files}}{{c4::]}}</div></div></div><div><br></div>This is useful for merging several files together into a df that have a similar name like:&nbsp;records-for-2011,&nbsp;records-for-2012,&nbsp;records-for-2013, etc.<div><br></div><div>requires:</div><div>from glob&nbsp;import glob</div><div>understanding how a list comprehension works</div><div>understanding the regular expression * which is a wild card</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "b9jbT.VI<a",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "#describe()&nbsp;on {{c2::numerical columns}}<div><br><div>df.describe({{c1::include = [np.number]}})</div></div>",
+                        "<img src=\"paste-3399eb78453c5485ad336ee89b74e0b23a78cfb2.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "y$8e9vN6*f",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>#describe()&nbsp;on {{c2::objects/strings}}&nbsp;</div><div><br></div><div>df.describe({{c1::include = ['O']}})</div>",
+                        "<img src=\"paste-e7e631b27e003414ca73b3fd19362b55d4692f80.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "rezQ;$9((R",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "2ac6a486-ad20-11e9-8605-48bf6bddbf30",
+            "deck_config_uuid": "98d229ba-9bac-11e9-9077-48bf6bddbf30",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "Python_Statistics",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>#seaborn&nbsp;</div><div>#all pairs of plots in df&nbsp;</div><div><br></div>{{c1::sns}}.{{c2::pairplot}}({{c3::df}})<div><br></div>",
+                        "only works for numerical columns"
+                    ],
+                    "flags": 0,
+                    "guid": "J#,cy#:GG6",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div># glob and concat</div><div># ignore original index</div><div><br></div>import {{c1::glob}}<div>pd.concat(glob{{c2::.glob}}(\"*.csv\"), {{c3::ignore_index}}={{c4::True}})</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Mn@`UWnc|z",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "2ac6ca18-ad20-11e9-91f1-48bf6bddbf30",
+            "deck_config_uuid": "98d229ba-9bac-11e9-9077-48bf6bddbf30",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "Machine_Learning",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "You would {{c1::not}} cross validate {{c3::clustered}} data if it is a problem you would only solve {{c2::once}}, i.e. no need to generalize.&nbsp;",
+                        "<div><br></div><div>For example use k-means to find clusters in a city with high crime and from those high-crime cluster locations decide where to build a police station. After you've solved that problem, there is no need to go further.</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "ds{[Z5bH|!",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "ML"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Cr{{c1::oss-validation}} gives you {{c2::confidence}} in your ability to {{c3::generalize}}.",
+                        "<div><br></div><div>Since confidence to generalize (to data that you have not seen) is not always necessary, (for example solving a problem that only needs to be solved once), cross-validation is therefore not always necessary.</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "j>[OdHhP=0",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "ML"
+                    ]
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "2ac6ec00-ad20-11e9-b9ab-48bf6bddbf30",
+            "deck_config_uuid": "98d229ba-9bac-11e9-9077-48bf6bddbf30",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "SQL",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>#SQL</div><div># use LIMIT&nbsp;command to display 5 results only</div><div><br></div>SELECT *&nbsp;<div>FROM file_name</div><div>{{c1::LIMIT 5}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "ty]%2$9ZI[",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "SQL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>#SQL</div><div><br></div>#{{c1::WHERE}}&nbsp;<div><br></div><div>clause that {{c2::filters}} data</div>",
+                        "SELECT *&nbsp;<div>FROM file_name</div><div>WHERE guests = 5</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "JEsnD[O]$@",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "SQL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>#SQL's \"{{c3::not equal to}}\"</div><div><div>{{c1::&lt;&gt;}}&nbsp; or&nbsp; {{c2::!=}}</div></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "LSf|tVd4SX",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "SQL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "SQL uses {{c1::single}} quotes to reference non-{{c2::numeric}} column {{c3::values}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Mn;)bw8)r5",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "SQL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>#SQL</div><div><br></div>for non-{{c1::numeric}} columns,<div>&gt;,&nbsp;&lt;, etc. f{{c3::ilter}} based on {{c2::alphabetical}} order.</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "L`CUgm,k:n",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "SQL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "#SQL<div><br></div><div>#{{c1::LIKE}}&nbsp;</div><div><br></div><div>match {{c2::similar}}&nbsp;values</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "K~5}+G5;5`",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "SQL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>#SQL</div><div><br></div><div>#{{c1::IN}}&nbsp;</div><div><br></div><div>specify list of values to {{c2::include}}</div>",
+                        "SELECT *&nbsp;<div>FROM file_name&nbsp;</div><div>WHERE color IN ('Blue', 'Green', 'Red')</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "K-m]Ycg~$l",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "SQL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "#SQL<div><br></div><div>#{{c1::BETWEEN}}&nbsp;</div><div><br></div><div>select rows in a certain {{c2::range}}<br></div>",
+                        "<div><br></div>SELECT *&nbsp;<div>FROM file_name</div><div>WHERE number BETWEEN 1 AND 3<div><br></div><div>notice this is the same as this:</div><div><br></div><div>SELECT *&nbsp;<div>FROM file_name</div><div>WHERE number &gt;= 1 AND number &lt;= 3</div></div></div><div><br></div><div>BETWEEN is odd because it doesn't sound inclusive, but it is, so avoiding it is also one option.</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "PBVMEi<`lh",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "SQL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "#SQL<div><br></div><div>#{{c2::IS NULL}}&nbsp;</div><div><br></div><div>select {{c1::rows}} that don't contain data.<br></div>",
+                        "SELECT *&nbsp;<div>FROM file_name</div><div>WHERE color IS NULL</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "ta8<p]dfy&",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "SQL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>#SQL</div><div><br></div>#{{c1::AND}}&nbsp;<div><br></div><div>select rows that satisfy {{c2::two}} conditions<div><br></div></div>",
+                        "SELECT *&nbsp;<div>FROM file_name</div><div>WHERE color = \"Blue\" AND number &gt;= 3</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "slOak$3CR}",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "SQL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "#SQL<div><br></div><div>#{{c1::OR}}&nbsp;</div><div><br></div><div>select rows which satisfy {{c2::<b><u>either</u></b>}} of two conditions</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "mc/}/t;=8p",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "SQL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "#SQL<div><br></div><div>#{{c1::NOT}}&nbsp;</div><div><br></div><div>select rows that {{c2::don't}} match a certain condition<br></div>",
+                        "SELECT *&nbsp;<div>FROM file_name</div><div>WHERE color = \"Blue\" AND number IS NOT NULL</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "ne7g0XB{f<",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "SQL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "#SQL<div><br></div><div>{{c1::double}} quotes around a {{c2::column}} name are only used when that {{c2::column}} name is the same as a SQL function such as LIKE</div>",
+                        "SELECT *&nbsp;<div>FROM file_name</div><div>WHERE \"like\" LIKE 'blue%'</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "B{aQ1d/:/D",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "SQL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "#SQL<div><br></div><div>{{c1::%}}&nbsp;</div><div><br></div><div>{{c2::wildcard symbol}}<br></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "FN{Z+*f_vv",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "SQL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "#SQL<div><br></div><div>#{{c1::ILIKE}}&nbsp;</div><div><br></div><div>{{c2::ignore}} case-matching values<br></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "oL_SC4?&=|",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "SQL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>#SQL</div><div><br></div><div>{{c1::_}}&nbsp;</div><div><br></div><div>{{c2::substitute}} for individual character<br></div>",
+                        "SELECT *&nbsp;<div>FROM file_name</div><div>WHERE color ILIKE 'bl_e'</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "wEz;@UjCbJ",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "SQL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>#SQL</div><div># sort by color column in descending order</div><div><br></div>SELECT *&nbsp;<div>FROM file_name</div><div>{{c1::ORDER BY}} color {{c2::DESC}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "vwAC:w,DK+",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>#SQL</div>#comment out text<div><br></div><div>{{c1::--}} or {{c2::/* text */}}</div>",
+                        "<div><br></div>SELECT * --comment<div><br></div><div>or</div><div><br></div><div>/* Long comment&nbsp;</div><div>that requires&nbsp;</div><div>many&nbsp;</div><div>lines. */&nbsp;</div><div>SELECT *<br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "ebI]<~~#;p",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": [
+                        "SQL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>#SQL</div><div><br></div>Give {{c1::table}} an alias",
+                        "<div><br></div><div>FROM x.file_name_colors colors<br></div><div>JOIN x.file_name_numbers numbers</div><div><br></div><div>new alias -&gt; colors &amp; numbers</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "v&6?G_e%YY",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "SELECT * and JOIN return {{c1::all}} columns from both tables<div><br></div><div>Return columns from certain_table {{c2::only}} -&gt; SELECT certain_table.*</div>",
+                        "SELECT *&nbsp;<div>FROM x.file_name_colors colors&nbsp;</div><div>JOIN x.file_name_numbers numbers&nbsp;</div><div>ON colors.favorite = numbers.favorite</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "eWPp[)yz6]",
+                    "note_model_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+                    "tags": []
                 }
             ]
         }
@@ -668,7 +1780,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 40,
+                "perDay": 10,
                 "separate": true
             },
             "replayq": true,
@@ -680,7 +1792,7 @@
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 500
+                "perDay": 5000
             },
             "timer": 1
         }
@@ -689,52 +1801,14 @@
     "dyn": 0,
     "extendNew": 10,
     "extendRev": 50,
-    "media_files": [],
+    "media_files": [
+        "Screen Shot 2019-07-10 at 21.38.45.png",
+        "a252880c32e644c6857f9a33299ce38f-oa-1-A.svg",
+        "a252880c32e644c6857f9a33299ce38f-oa-1-Q.svg",
+        "a252880c32e644c6857f9a33299ce38f-oa-O.svg"
+    ],
     "name": "Learn Fundamentals of Data Science with Anki using Cloze Deletion and Image Occlusion",
     "note_models": [
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n color: white;\n background-color: black;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: blue;\n}",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Text",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze",
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "Cloze",
-                    "ord": 0,
-                    "qfmt": "{{cloze:Text}}"
-                }
-            ],
-            "type": 1,
-            "vers": []
-        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "8b52627e-9778-11e9-9b91-48bf6bddbf30",
@@ -867,7 +1941,74 @@
             ],
             "type": 0,
             "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8b5209a8-9778-11e9-b1b7-48bf6bddbf30",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n color: white;\n background-color: black;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
         }
     ],
-    "notes": []
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a252880c32e644c6857f9a33299ce38f-oa-1",
+                "",
+                "<img src=\"Screen Shot 2019-07-10 at 21.38.45.png\" />",
+                "<img src=\"a252880c32e644c6857f9a33299ce38f-oa-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a252880c32e644c6857f9a33299ce38f-oa-1-A.svg\" />",
+                "<img src=\"a252880c32e644c6857f9a33299ce38f-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "hv04oz{OBL",
+            "note_model_uuid": "8b52627e-9778-11e9-9b91-48bf6bddbf30",
+            "tags": [
+                "ML"
+            ]
+        }
+    ]
 }
